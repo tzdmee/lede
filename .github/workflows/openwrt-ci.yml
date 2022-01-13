@@ -86,7 +86,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-vsftpd=y
           CONFIG_PACKAGE_luci-app-zerotier=y
           CONFIG_PACKAGE_luci-app-ddns=y
-          CONFIG_PACKAGE_luci-app-wol=y
           CONFIG_PACKAGE_luci-app-upnp=y
           CONFIG_PACKAGE_luci-app-accesscontrol=y
           CONFIG_PACKAGE_luci-app-arpbind=y
