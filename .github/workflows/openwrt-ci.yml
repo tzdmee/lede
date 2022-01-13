@@ -113,7 +113,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-aria2=y
           CONFIG_PACKAGE_luci-app-transmission=y
           CONFIG_PACKAGE_luci-app-qbittorrent=y
-          CONFIG_PACKAGE_luci-app-cshark=y
           CONFIG_PACKAGE_luci-app-dnscrypt-proxy=y
           CONFIG_PACKAGE_luci-app-dnsforwarder=y
           CONFIG_PACKAGE_luci-app-easymesh=y
