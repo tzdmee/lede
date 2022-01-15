@@ -126,6 +126,7 @@ jobs:
           CONFIG_PACKAGE_luci-i18n-ssr-plus-zh-cn=y
           CONFIG_PACKAGE_luci-app-openclash=y
           CONFIG_PACKAGE_luci-app-nlbwmon=y
+          CONFIG_PACKAGE_luci-app-syncdial=y
           #
           # ========================固件定制部分结束========================
           #
