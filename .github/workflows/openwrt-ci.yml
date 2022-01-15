@@ -107,12 +107,8 @@ jobs:
           CONFIG_PACKAGE_luci-app-mwan3=y
           CONFIG_PACKAGE_luci-app-netdata=y
           CONFIG_PACKAGE_luci-app-adbyby-plus=y
-          CONFIG_PACKAGE_luci-app-aria2=y
-          CONFIG_PACKAGE_luci-app-transmission=y
-          CONFIG_PACKAGE_luci-app-qbittorrent=y
           CONFIG_PACKAGE_luci-app-dnscrypt-proxy=y
           CONFIG_PACKAGE_luci-app-easymesh=y
-          CONFIG_PACKAGE_luci-app-familycloud=y
           CONFIG_PACKAGE_luci-app-guest-wifi=y
           CONFIG_PACKAGE_luci-app-nfs=y
           CONFIG_PACKAGE_luci-app-usb-printer=y
@@ -129,7 +125,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ShadowsocksR_Server=y
           CONFIG_PACKAGE_luci-i18n-ssr-plus-zh-cn=y
           CONFIG_PACKAGE_luci-app-openclash=y
-          CONFIG_PACKAGE_luci-app-smartdns=y 
+          CONFIG_PACKAGE_luci-app-nlbwmon=y
           #
           # ========================固件定制部分结束========================
           #
