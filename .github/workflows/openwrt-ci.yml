@@ -74,12 +74,12 @@ jobs:
           CONFIG_TARGET_IMAGES_GZIP=y
           CONFIG_PACKAGE_hostapd=y
           CONFIG_PACKAGE_hostapd-common=y
-          #CONFIG_PACKAGE_hostapd-openssl=y
+          CONFIG_PACKAGE_hostapd-openssl=y
           CONFIG_PACKAGE_hostapd-utils=y
           CONFIG_PACKAGE_hostapd-wolfssl=y
           CONFIG_PACKAGE_kmod-mt76x2e=y
           CONFIG_PACKAGE_kmod-mt7603e=y
-          CONFIG_PACKAGE_wpad-openssl=y
+          # CONFIG_PACKAGE_wpad-openssl=y
           CONFIG_PACKAGE_dnsmasq_full_dhcpv6=y
           CONFIG_PACKAGE_ipv6helper=y
           CONFIG_PACKAGE_kmod-usb3=y
@@ -131,7 +131,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-openclash=y
           CONFIG_PACKAGE_luci-app-nlbwmon=y
           CONFIG_PACKAGE_luci-app-syncdial=y
-          CONFIG_PACKAGE_luci-app-cshark=y
+         
           #
           # ========================固件定制部分结束========================
           #
